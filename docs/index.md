@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Ethan Harbaugh"
+  text: "My Blog"
+  tagline: "A little bit about me"
   actions:
     - theme: brand
       text: Template Repository
@@ -22,4 +22,5 @@ features:
     details: All of your assignments will be posted on your portfolio.
   - title: About Me
     details: You'll implement a small bio about yourself on here!
+    link: /aboutme
 ---
