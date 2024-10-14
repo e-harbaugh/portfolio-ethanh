@@ -1,9 +1,9 @@
 ---
-title: Assignment 4 Alpha
+title: Assignment 4 Beta
 layout: doc
 ---
 
-# Assignment 4 Alpha
+# Assignment 4 Beta
 
 ## ADTs
 
